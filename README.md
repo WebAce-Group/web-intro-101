@@ -16,6 +16,6 @@ Repozytorium składa się z następujących folderów i plików:
 - `zadanie-1.md`, `zadanie-2.md`, `zadanie-3.md`, itd.: Pliki z opisami zadań domowych.
 
 ## Odsłanie zadań
-- Linki do stron proszę wysyłać na email web101@webace-group.dev o tytule Web Intro 101 Link - Imię Nazwisko
+Linki do stron proszę wysyłać na email web101@webace-group.dev o tytule "Web Intro 101 Link - Imię Nazwisko"
 
 W razie pytań lub problemów związanych z repozytorium można skontaktować się z prowadzącym kursu lub założycielem webace na discord lub email web101@webace-group.dev
