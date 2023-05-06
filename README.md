@@ -2,11 +2,11 @@
 
 # Repozytorium kursu Web Intro 101 z zadaniami domowymi
 
-To jest repozytorium przeznaczone dla kursu Web101, gdzie będą umieszczane zadania domowe.
+To jest repozytorium przeznaczone dla kursu Web Intro 101, gdzie będą umieszczane zadania domowe.
 
 ## Opis
 
-Repozytorium zawiera pliki z zadaniami domowymi dla kursu Web101. Każde zadanie jest przechowywane w osobnym pliku w formacie Markdown. Każde zadanie zawiera opis problemu, wymagania i instrukcje dotyczące rozwiązania zadania.
+Repozytorium zawiera pliki z zadaniami domowymi dla kursu Web Intro 101. Każde zadanie jest przechowywane w osobnym pliku w formacie Markdown. Każde zadanie zawiera opis problemu, wymagania i instrukcje dotyczące rozwiązania zadania.
 
 ## Struktura repozytorium
 
