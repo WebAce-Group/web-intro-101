@@ -1,4 +1,5 @@
 <p align="center"><img src="https://media.discordapp.net/attachments/1037857349890756709/1104187787802058843/KursWebowy.png" alt="baner"></p>
+
 # Repozytorium kursu Web101 z zadaniami domowymi
 
 To jest repozytorium przeznaczone dla kursu Web101, gdzie będą umieszczane zadania domowe.
