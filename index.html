@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kurs web intro 101</title>
+    <style>
+      body {
+        background-color: #000;
+        color: #FFFFFF;
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+        margin: 0;
+        padding: 0;
+      }
+      
+      a {
+        color: #FFFFFF;
+        text-decoration: none;
+        transition: all 0.3s ease-in-out;
+      }
+      
+      a:hover {
+        color: #FF0000;
+        text-decoration: underline;
+      }
+      
+      .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      
+      h1 {
+        font-size: 48px;
+        margin-bottom: 32px;
+        text-align: center;
+      }
+      
+      h2 {
+        font-size: 32px;
+        margin-top: 64px;
+        margin-bottom: 16px;
+      }
+      
+      ul {
+        list-style-type: none;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+      }
+      
+      li {
+        margin-bottom: 16px;
+      }
+      
+      .link {
+        display: inline-block;
+        padding: 12px 24px;
+        background-color: #FF0000;
+        border-radius: 4px;
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
+        transition: all 0.3s ease-in-out;
+      }
+      
+      .link:hover {
+        background-color: #FFFFFF;
+        color: #FF0000;
+      }
+      
+      .download {
+        display: inline-block;
+        padding: 12px 24px;
+        background-color: #FF0000;
+        border-radius: 4px;
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
+        transition: all 0.3s ease-in-out;
+      }
+      
+      .download:hover {
+        background-color: #FFFFFF;
+        color: #000000;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Pliki</h1>
+      <h2>Zadania domowe</h2>
+      <ul>
+        <li><a href="https://github.com/WebAce-Group/web-intro-101/blob/main/zadanie-1.md" class="link">Zadanie domowe 1</a></li>
+        <li><a href="https://github.com/WebAce-Group/web-intro-101/blob/main/zadanie-2.md" class="link">Zadanie domowe 2</a></li>
+        <li><a href="https://github.com/WebAce-Group/web-intro-101/blob/main/zadanie-3.md" class="link">Zadanie domowe 3</a></li>
+      </ul>
+      <h2>Pliki do pobrania</h2>
+      <ul>
+        <li><a href="strona.zip" download class="download">Pliki startowe z wykładu 2</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
