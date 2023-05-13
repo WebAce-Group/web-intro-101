@@ -1,4 +1,4 @@
-## Zadanie 1
+# Zadanie 1
 Stworzyć stronę o dowolnej tematyce, zawierającą:
 
 - Nagłówek strony (np. nazwa strony)
